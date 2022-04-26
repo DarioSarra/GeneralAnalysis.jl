@@ -24,6 +24,7 @@ BrowseTables = "0.3"
 CategoricalArrays = "0.10"
 EffectSizes = "1"
 MixedModelsExtras = "0.1"
+StatsBase = "0.33"
 StatsPlots = "0.14"
 MixedModelsSim = "0.2"
 
